@@ -2,7 +2,7 @@
 
 - Blog: http://s1nh.com
 
-### Github Stats
+### Github stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duchengyao&show_icons=true&count_private=true)
 
