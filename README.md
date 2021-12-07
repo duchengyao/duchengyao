@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=duchengyao&show_icons=true&count_private=true"  alt="Du, Chengyao's github stats" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=duchengyao&show_icons=true&count_private=true&line_height=23"  alt="Du, Chengyao's github stats" align="right">
 
 ## Du, Chengyao
 
