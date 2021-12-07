@@ -5,7 +5,7 @@
 `Wechat`: hbyls_  
 `Website`: [S1NH.com](http://s1nh.com)  
 
-`Education`: Wuhan University of Technology
+`Education`: Wuhan University of Technology  
 `Fields`: Computer Science  
 `Skill`: **Full Stack Developer**, Python, ROS, Computer Vision, Deep-learning, SLAM, CUDA, {_iOS, Labview, Metasploit, Software Defind Radio_} amateur  
 
