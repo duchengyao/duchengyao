@@ -20,6 +20,10 @@
 [8] Zhejiang Lab. (2022-07-05). [Topological graph scene recognition method and device based on density filtering and landmark saliency](https://patents.google.com/patent/CN114708482A/en) CN114708482A.    
 [9] Zhejiang Lab. (2023-04-25). [Embedded GPU zero-copy panoramic image stitching method and system for improving L-ORB algorithm](https://patents.google.com/patent/CN116016816A/en) CN116016816A.
 
+--------
+
+<img src="wechatpay-ss.jpg" width="30%"></img>
+
 <!--
 ### Hi there 👋
 
