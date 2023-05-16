@@ -2,7 +2,6 @@
 
 ## Du, Chengyao
 
-`Wechat`: hbyls_  
 `Website`: [S1NH.com](http://s1nh.com)  
 
 `Education`: Wuhan University of Technology  
