@@ -6,7 +6,7 @@
 
 `Education`: Wuhan University of Technology  
 `Fields`: Computer Science  
-`Skill`: **Full Stack Developer**, Python, ROS, Computer Vision, Deep-learning, SLAM, CUDA, {_iOS, Labview, Metasploit, Software Defind Radio_} amateur  
+`Skill`: **Full Stack Developer**, C++, Python, ROS, Computer Vision, Deep-learning, SLAM, CUDA, {_iOS, Labview, Metasploit, Software Defind Radio_} amateur  
 
 `Publications`:  
 [1] Li, J., **Du, Chengyao**, Hu, X., & Lu, L. (2015). [Xcode Jianghu.](https://books.google.com.sg/books?id=hYrYvQEACAAJ) China Machine Press.  
