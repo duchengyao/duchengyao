@@ -18,7 +18,6 @@
 [7] Zhejiang Lab. (2022-02-15). [Visual scene recognition method based on structural information characteristic decoupling and knowledge migration.](https://patents.google.com/patent/CN114049541A/en) CN114049541A.  
 [8] Zhejiang Lab. (2022-07-05). [Topological graph scene recognition method and device based on density filtering and landmark saliency](https://patents.google.com/patent/CN114708482A/en) CN114708482A.    
 [9] Zhejiang Lab. (2023-04-25). [Embedded GPU zero-copy panoramic image stitching method and system for improving L-ORB algorithm](https://patents.google.com/patent/CN116016816A/en) CN116016816A.
-
 <img referrerpolicy="no-referrer-when-downgrade" src="https://home.s1nh.com:32443/matomo.php?idsite=1&amp;rec=1&amp;action_name=GitHub" style="border:0" alt="" />
 
 <!--
